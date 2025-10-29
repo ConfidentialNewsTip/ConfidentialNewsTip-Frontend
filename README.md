@@ -55,6 +55,15 @@ Decrypt total tips
 ```
 confidentialNewsTip.decryptTips(1);
 ```
+👥 Team members
+
+Discord: eumoreno
+
+Github: [ShugaAB](https://github.com/ShugaAB)
+
+Discord: 0xSimeon
+
+Github: [0xSimeon](https://github.com/0xSimeon)
 
 📄 License
 
