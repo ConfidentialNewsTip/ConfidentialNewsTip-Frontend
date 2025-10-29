@@ -1,0 +1,2 @@
+export const faucetContractAddress = "0xD214EeADf1DbD166df11f57eC005dE2a5E096B08"
+export const confidentialNewsTipContractAddress = "0x725d65F6c142473B00717BBE2040f547106a177F"
