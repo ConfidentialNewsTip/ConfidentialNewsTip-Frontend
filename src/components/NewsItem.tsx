@@ -189,10 +189,10 @@ className="w-full bg-white/80 dark:bg-slate-900/60 border border-gray-200 dark:b
 
             <span className="flex items-center gap-1">
               <Check size={14} />
-              <span>{news.clearTips ?? 0} clearTip</span>
+              <span>{news.clearTips ?? 0} CNF</span>
             </span>
 
-            <span className="ml-1 px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">#{news.id}</span>
+            <span className="ml-1 px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">#{news.id+1}</span>
           </div>
         </div>
 
