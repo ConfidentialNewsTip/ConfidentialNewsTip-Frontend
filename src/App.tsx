@@ -236,7 +236,7 @@ function App() {
           description: r[2],
           likes: String(r[3]),
           tips: r[4],
-          clearTips: String(r[5]),
+          clearTips: ethers.formatUnits(String(r[5]), 6),
         }));
         console.log({parsed})
 
