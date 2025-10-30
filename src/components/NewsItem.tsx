@@ -220,7 +220,7 @@ className="w-full bg-white/80 dark:bg-slate-900/60 border border-gray-200 dark:b
               <DollarSign size={18} />
               <div>
                 <div className="text-xs text-slate-500 dark:text-slate-400">Total (revealed)</div>
-                <div className="font-medium text-black">{ethers.formatUnits(news.clearTips, 6)} CNF</div>
+                <div className="font-medium text-black">{news.clearTips} CNF</div>
               </div>
             </div>
             
